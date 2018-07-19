@@ -23,3 +23,9 @@ your project dependent environment variables and python environments.
 
          pip install -r requirements.txt
          pip install -e .
+
+
+Download Data
+-----
+
+`./get-data.sh` will put the BBC dataset in the `data/` directory.
