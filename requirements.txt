@@ -1,0 +1,18 @@
+# CLI
+click
+
+ipython
+jupyter
+
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+
+# NLP
+allennlp
+
+spacy
+
+
